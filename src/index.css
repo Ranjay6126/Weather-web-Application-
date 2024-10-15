@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.app{
+
+  min-height: 100vh;
+  display: grid;
+  /* background-color:#c3abf6; */
+  /* background:linear-gradient(135deg,#74d0b7,#5b548a); */
+  background: linear-gradient(#e66465, #9198e5);
+  /* background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%); */
+             
+}
