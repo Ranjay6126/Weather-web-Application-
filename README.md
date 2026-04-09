@@ -27,6 +27,6 @@ CSS
 
 Weather API (e.g., OpenWeatherMap)
 
-📌 How It Works
+📌 How It Works.
 
 The application sends API requests based on the city entered by the user and dynamically updates the UI with the latest weather information received from the API.
